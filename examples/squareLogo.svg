@@ -1,0 +1,7 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <rect width="186" height="186" x="57" y="7" fill="salmon" />
+            <rect width="180" height="180" x="60" y="10" fill="aqua" />
+            <text x="150" y="125" font-size="70" text-anchor="middle" fill="salmon">WJG</text>
+        </svg>
+        

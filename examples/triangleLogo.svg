@@ -1,0 +1,9 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <polygon points="46,190 150,10 254,190" style="fill:yellowgreen" />
+            <polygon points="124,55 150,10 176,55" style="fill:darkmagenta" />
+            <polygon points="46,190 72,145 98,190" style="fill:darkmagenta" />
+            <polygon points="202,190 228,145 254,190" style="fill:darkmagenta" />
+            <text x="150" y="163" font-size="45" text-anchor="middle" fill="darkmagenta">WJG</text>
+        </svg>
+        
